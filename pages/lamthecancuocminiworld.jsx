@@ -35,8 +35,8 @@ function Lamthecancuoc(props) {
           <Image
             src="/image/lamthecancuoc.jpg"
             alt="Ảnh làm thẻ căn cước"
-            width="500"
-            height="300"
+            width="360"
+            height="216"
           />
         </div>
         <ul>
