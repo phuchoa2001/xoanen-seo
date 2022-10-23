@@ -15,7 +15,7 @@ function Lamthecancuoc(props) {
           tôi thấy nhiều bạn facebook thích làm thẻ căn cước mini (Id card Mini World)
           world nên tôi quyết định xây dựng trang website giúp anh em 
           làm thẻ căn cước mini world dễ dàng hơn"
-          image="/image/lamthecancuoc.jpg"
+          image="https://res.cloudinary.com/xoanen1202/image/upload/v1666493135/lamthecancuoc_blcrml.jpg"
         />
       </Head>
       <div>
