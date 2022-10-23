@@ -1,10 +1,13 @@
-import React from "react";
+import React, {  useLayoutEffect } from "react";
 import Head from "next/head";
 import Image from "next/image";
 
 import HeaderSeo from "../components/HeaderSeo";
 
 function Lamthecancuoc(props) {
+  useLayoutEffect(() => {
+    window.location="http://xoanen-dohoa.surge.sh/edit/lamthecancuocminiworld";
+  }, [])
   return (
     <>
       <Head>
@@ -15,7 +18,7 @@ function Lamthecancuoc(props) {
           tôi thấy nhiều bạn facebook thích làm thẻ căn cước mini (Id card Mini World)
           world nên tôi quyết định xây dựng trang website giúp anh em 
           làm thẻ căn cước mini world dễ dàng hơn"
-          image="https://res.cloudinary.com/xoanen1202/image/upload/v1666493135/lamthecancuoc_blcrml.jpg"
+          image="https://res.cloudinary.com/xoanen1202/image/upload/v1666522129/thecancuocminiworld_iry22o.png"
         />
       </Head>
       <div>
